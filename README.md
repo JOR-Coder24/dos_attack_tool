@@ -1,4 +1,4 @@
-#DoS attacking tool
+# DoS attacking tool
 Series of functions for sending different forms of Denial of Service attacks
 
 UDP Flood Attack (ddos_udp_packets_attack)
